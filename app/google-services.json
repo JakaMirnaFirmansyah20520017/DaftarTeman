@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "106966692951",
+    "firebase_url": "https://daftarteman-35ca9.firebaseio.com",
+    "project_id": "daftarteman-35ca9",
+    "storage_bucket": "daftarteman-35ca9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106966692951:android:93ed00e80944090fc39f12",
+        "android_client_info": {
+          "package_name": "com.example.daftarteman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106966692951-m208rqb8f2omvo7evrigp4va18gb161e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-eKX5JSkqkCLLlDF6d3g317So0nD1mtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106966692951-m208rqb8f2omvo7evrigp4va18gb161e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
